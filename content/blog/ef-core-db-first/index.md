@@ -1,8 +1,9 @@
 ---
 title: Database-First Approach to Entity Framework Core
+Category: Technical
 tags: .Net, Entity Framework
 author: Mark Haines
-date: 9/28/2021
+date: 2018-03-09
 ---
 Test change
 Test2
