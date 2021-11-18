@@ -1,12 +1,12 @@
 ---
-title: Google Fonts
+title: Easily Add Fonts With Google Fonts
 date: "2018-03-09T22:12:03.284Z"
 description: "A very straightforward way to add fonts to a website."
 ---
 
 
 
-# Adding Google Fonts to a Website
+## Adding Google Fonts to a Website
 
 Use Google Fonts to easily add attractive, contemporary fonts to a website.
 
