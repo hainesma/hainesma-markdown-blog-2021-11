@@ -1,3 +1,12 @@
+---
+title: Table of Contents
+Category: Technical
+tags: DevOps, Wev Development
+author: Mark Haines
+date: 2018-03-09
+publicationStatus: draft
+---
+
 
 # I’m Mark Haines. 
 
