@@ -30,6 +30,7 @@ const BlogIndex = ({ data, location }) => {
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
+          const author = post.frontmatter.author
 
           return (
             <li key={post.fields.slug}>
@@ -45,8 +46,10 @@ const BlogIndex = ({ data, location }) => {
                     </Link>
                   </h2>
                   <small>{post.frontmatter.date}</small>
+                  <p>{author}</p>
                 </header>
                 <section>
+                  
                   <p
                     dangerouslySetInnerHTML={{
                       __html: post.frontmatter.description || post.excerpt,

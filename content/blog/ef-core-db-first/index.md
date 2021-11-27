@@ -5,9 +5,6 @@ tags: .Net, Entity Framework
 author: Mark Haines
 date: 2018-03-09
 ---
-Test change
-Test2
-
 Entity Framework maps models in a .Net project to tables in a SQL database, allowing us to manipulate the database from within our .Net app.
 
 There are two approaches to setting up an EF Core project: 
